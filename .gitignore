@@ -1,0 +1,5 @@
+*.DS_Store
+.DS_Store
+
+SPPokeMaster.xcodeproj/xcuserdata/*
+*.xcuserdatad
